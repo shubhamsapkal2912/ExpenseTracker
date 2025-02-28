@@ -61,9 +61,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 For any questions or inquiries, please reach out to:
 
-Your Name: [questions@mianasad.com]
+Your Name: [shubhamsapkal2912@gmail.com]
 
-Project Link: [GitHub Repository](https://github.com/mianasadali1/expense_manager_app_mian_speaks)
+Project Link: [GitHub Repository](https://github.com/shubhamsapkal2912/ExpenseTracker)
 
 ## License
 
